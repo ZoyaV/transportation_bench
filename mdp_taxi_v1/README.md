@@ -1,4 +1,4 @@
-### README для кода TaxiMDPWrapper
+TaxiMDPWrapper
 
 #### Описание
 
